@@ -1,0 +1,28 @@
+.box1 {
+  background-color: #fce6dc;
+
+  color: #b95549;
+  margin: 0px;
+  width: 200px;
+  height: 200px;
+
+  border: solid 5px brown;
+}
+
+.rbox {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 0px;
+  margin-left: 210px;
+  border: solid 20px black;
+}
+
+.bbox {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 0px;
+  margin-left: 450px;
+  border: solid 5px green;
+}
